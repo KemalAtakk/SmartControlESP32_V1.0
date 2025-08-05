@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=ESP32.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Downloads\USBLC6-2SC6\USBLC6-2SC6.LibPkg
